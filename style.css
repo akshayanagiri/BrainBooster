@@ -1,0 +1,87 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #282c34;
+    color: #e0e0e0;
+    /* Flexbox rules to push footer to the bottom */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.main-content {
+    flex-grow: 1; /* This pushes the footer down */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: #3a3f47;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    max-width: 600px;
+    width: 100%;
+}
+
+h1 {
+    color: #61dafb;
+    margin-bottom: 10px;
+    font-size: 2.2em;
+}
+
+.description {
+    font-size: 1.1em;
+    color: #bbbbbb;
+    margin-bottom: 30px;
+}
+
+.catalog-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.catalog-item {
+    background-color: #4a4f58;
+    border-radius: 10px;
+    padding: 20px;
+    text-decoration: none;
+    color: #e0e0e0;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.catalog-item:hover {
+    background-color: #5a6068;
+    transform: translateY(-5px);
+}
+
+.icon {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+.app-footer {
+    margin-top: 50px;
+    font-size: 0.9em;
+    color: #a0a0a0;
+    text-align: center;
+}
+
+.app-footer .heart-emoji {
+    color: #e60000;
+}
