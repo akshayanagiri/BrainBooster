@@ -7,7 +7,7 @@ A comprehensive web-based application designed to enhance cognitive abilities, m
 ##  Features
 
 * **Main Dashboard:** A central hub to select different brain-training categories.
-* **Memory Sequence Game ():** A challenge for short-term memory and recall where users must repeat a randomly generated sequence.
+* **Memory Game (Memory Sequence):** A challenge for short-term memory and recall where users must repeat a randomly generated sequence.
 * **Cognitive Game (Color & Word Match):** Based on the Stroop Effect, this game tests cognitive flexibility by requiring users to match either the word or the color in conflicting displays.
 * **Math Game (Simple Math Challenge):** A fast-paced exercise to improve arithmetic speed and accuracy.
 * **Brain Yoga (Cross-Lateral Coordination):** Connects physical movement with cognitive function through guided cross-lateral exercises.
@@ -22,6 +22,8 @@ Experience the Brain Booster live here:
 [Your Vercel App URL will go here after deployment]
 
 ---
+Dashboard:
+[Brainbooster dashboard](image.png)
 
 ##  Technologies Used
 
