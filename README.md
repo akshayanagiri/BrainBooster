@@ -16,14 +16,14 @@ A comprehensive web-based application designed to enhance cognitive abilities, m
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 Experience the Brain Booster live here:
 [Your Vercel App URL will go here after deployment]
 
 ---
 
-## 💻 Technologies Used
+##  Technologies Used
 
 * **HTML5:** For structuring the web application and its various game pages.
 * **CSS3:** For styling the modern interface, implementing responsive design, and creating engaging visual effects.
@@ -31,7 +31,7 @@ Experience the Brain Booster live here:
 
 
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 To set up and run this project on your local machine, follow these steps:
 
@@ -51,13 +51,13 @@ To set up and run this project on your local machine, follow these steps:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! If you have ideas for new games, improvements, or bug fixes, feel free to fork this repository, create a new branch, and submit a pull request.
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
