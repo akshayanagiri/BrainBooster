@@ -23,7 +23,7 @@ Experience the Brain Booster live here:
 
 ---
 Dashboard:
-[Brainbooster dashboard](brainbooster.png)
+![Brainbooster dashboard](brainbooster.png)
 
 ##  Technologies Used
 
