@@ -19,11 +19,11 @@ A comprehensive web-based application designed to enhance cognitive abilities, m
 ##  Live Demo
 
 Experience the Brain Booster live here:
-[Your Vercel App URL will go here after deployment]
+[Click Here](https://brainbooster-zeta.vercel.app/)
 
 ---
 Dashboard:
-[Brainbooster dashboard](image.png)
+[Brainbooster dashboard](brainbooster.png)
 
 ##  Technologies Used
 
