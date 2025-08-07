@@ -2,6 +2,7 @@
 
 A comprehensive web-based application designed to enhance cognitive abilities, memory, focus and mathematical skills through a series of engaging and interactive exercises. Built entirely with core web technologies, this project showcases a clean, modern interface and robust front-end development.
 
+
 ---
 
 ##  Features
@@ -13,6 +14,14 @@ A comprehensive web-based application designed to enhance cognitive abilities, m
 * **Brain Yoga (Cross-Lateral Coordination):** Connects physical movement with cognitive function through guided cross-lateral exercises.
 * **Timers & Scoring:** Each game includes a timer and score tracking to measure progress and challenge users.
 * **Responsive Design:** Optimized for seamless experience across various devices (desktop, tablet, mobile).
+
+---
+
+## 🛠️ Future Enhancements
+
+* **Full-Stack Architecture:** Integrate a **Node.js** backend with a database to enable user accounts, persistent data storage, and server-side logic.
+* **User Profiles & Leaderboards:** Implement a user authentication system to allow for individual profiles and display overall and weekly leaderboards.
+* **Dynamic Skills Assessments:** Introduce weekly or timed skills tests to track user progress and provide personalized challenges.
 
 ---
 
